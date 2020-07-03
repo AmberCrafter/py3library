@@ -1,0 +1,5 @@
+# ignore git information
+.git
+
+# ignore vscode setting
+.vscode
